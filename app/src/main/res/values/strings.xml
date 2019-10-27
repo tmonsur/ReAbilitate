@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Re-Abilitate</string>
+    <string name="info">Click for more info</string>
+    <string name="search">Click here to begin your search</string>
+    <string name="next">Next</string>
+    <string name="go">Search</string>
+    <string name="s1">Age</string>
+    <string name="s2">Diagnosis</string>
+    <string name="s3">Borough</string>
+    <string name="s4">Search</string>
+    <string name="vocab">This page will include all the necessary vocabulary word for the users to understand.</string>
+    <string name="vocab2">Individual-Someone with developmental disability</string>
+    <string name="vocab3">OPWDD-Office of people with developmental disability</string>
+    <string name="se">Please fill out the following form to find services for you!</string>
+    <string name="s8">Agency name: OMN\n\nLocation: 133 Jamaica, Queens, NY\n\nEmail-omn@gmail.com\n\nServices provided: Community habilitation, Respite.</string>
+    <string name="s9">Agency name: LOL\n\nLocation: 123-62nd street, Astoria, NY\n\nEmail-LOL@gmail.com\n\nServices provided: Respite, camp.</string>
+    <string name="s5">Agency name: ABC\n\nLocation: 123 Queens village, Queens, NY\n\nEmail-abc@gmail.com\n\nServices provided: Community habilitation, camp.</string>
+    <string name="s6">Search</string>
+    <string name="s7">Search</string>
+    <string name="welcome">Welcome to "Re-ability!" New Yorks first ever interactive app for people with developmental disability to connect to resources; and find opprtunities to improve their lifestyle.</string>
+</resources>
